@@ -1,7 +1,7 @@
 # spotpls
 A command line interface written in Python that searches for tracks in Spotify playlists
 
-**note: for full functionality, create a *secrets.py* file with the following information: **
+__note: for full functionality, create a *secrets.py* file with the following information: __
 
 client_id = {obtain by creating new app at the [Spotify developer page](https://developer.spotify.com)}
 client_secret = {same as above}
